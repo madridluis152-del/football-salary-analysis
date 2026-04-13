@@ -25,6 +25,17 @@ Se realizaron las siguientes transformaciones:
   - Age_group
 - Manejo de valores faltantes en posiciones
 
+## 📊 Visualizaciones
+
+### Edad vs salario
+![Edad vs salario](images/salary_by_age.png)
+
+### Distribución salarial
+![Distribución](images/salary_distribution.png)
+
+### Top equipos
+![Top equipos](images/top_teams.png)
+
 
 ## 📈 Análisis realizado
 
