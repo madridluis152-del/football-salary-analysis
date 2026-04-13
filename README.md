@@ -25,6 +25,25 @@ Se realizaron las siguientes transformaciones:
   - Age_group
 - Manejo de valores faltantes en posiciones
 
+
+
+## 📊 Visualizaciones
+
+### ⚽ Salario por posición
+![Salario por posición](images/salary_by_position.png)
+
+### 🌍 Top países
+![Top países](images/top_countries.png)
+
+### 🏆 Top equipos
+![Top equipos](images/top_teams.png)
+
+### 📈 Edad vs salario
+![Edad vs salario](images/age_vs_salary.png)
+
+### 📊 Distribución salarial
+![Distribución](images/salary_distribution.png)
+
 ## 📈 Análisis realizado
 
 ### ⚽ Salario por posición
